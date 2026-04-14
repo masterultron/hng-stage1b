@@ -60,7 +60,7 @@ const ProfileCard = () => {
             <li>
               <a
                 data-testid="test-user-social-github"
-                href="https://github.com/yourusername"
+                href="https://github.com/masterultron"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-indigo-600 font-semibold hover:text-indigo-800 hover:underline focus:outline-none focus:ring-2 focus:ring-indigo-500 rounded px-2 py-1 transition-colors"
@@ -71,7 +71,7 @@ const ProfileCard = () => {
             <li>
               <a
                 data-testid="test-user-social-linkedin"
-                href="https://linkedin.com/in/yourusername"
+                href="https://www.linkedin.com/in/abdurrahaman-jamiu-14131524b?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-indigo-600 font-semibold hover:text-indigo-800 hover:underline focus:outline-none focus:ring-2 focus:ring-indigo-500 rounded px-2 py-1 transition-colors"
